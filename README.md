@@ -1,2 +1,3 @@
 # Hello
-This is a simple html file
+<<<<<<< HEAD
+This is a simple html file its true
