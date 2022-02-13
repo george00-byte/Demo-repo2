@@ -1,2 +1,2 @@
 # Hello
-This is a simle html file
+This is a simple html file
